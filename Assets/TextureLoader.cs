@@ -20,7 +20,7 @@ public class TextureLoader : MonoBehaviour {
         // assign texture
         Renderer renderer = GetComponent<Renderer>();
         renderer.material.mainTexture = www.texture;
-
+        //Test test test for git
      
     }
 
